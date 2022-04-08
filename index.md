@@ -3,4 +3,14 @@ __this is a new webpage about cars__
 
 # __CARS__
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0317219%2F&psig=AOvVaw2xaG0w3KgBrsc93X4QxY0g&ust=1649518584896000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJixvN3lhPcCFQAAAAAdAAAAABAD)
+![Image](https://m.media-amazon.com/images/M/MV5BNzFiNWE2ZTktYzBhZS00ZmMwLTg5NDYtYTkwM2I0NjZhMTExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg)
+
+## Reasons to buy cars 
+
+- cars are great 
+- cars look really cool 
+- cars can go fast
+
+---
+
+_some people don't like cars and we don't like those people_
