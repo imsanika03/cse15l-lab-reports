@@ -11,6 +11,10 @@ __this is a new webpage about cars__
 - cars look really cool 
 - cars can go fast
 
+```
+aahhh silly goofy code block 
+```
+
 ---
 
 _some people don't like cars and we don't like those people_
