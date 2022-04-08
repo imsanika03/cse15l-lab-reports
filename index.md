@@ -1,7 +1,7 @@
 hello world
 __this is a new webpage about cars__
 
-[This is a Link to something cool](https://imsanika03.github.io/cse15l-lab-reports/page-1)
+[This is a Link to something cool](https://imsanika03.github.io/cse15l-lab-reports/lab-report-1-week-2)
 
 # __CARS__
 
