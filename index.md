@@ -7,6 +7,8 @@ __this is a new webpage about cars__
 
 [Lab Report 2](https://imsanika03.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
+[Lab Report 2](https://imsanika03.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
 # __CARS__
 
 ![Image](https://m.media-amazon.com/images/M/MV5BNzFiNWE2ZTktYzBhZS00ZmMwLTg5NDYtYTkwM2I0NjZhMTExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg)
