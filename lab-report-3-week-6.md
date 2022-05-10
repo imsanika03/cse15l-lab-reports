@@ -1,18 +1,34 @@
-# Lab Report 2 Week 4
-![Image](lab2change1.png)
-[File 1: Test file 2](https://github.com/imsanika03/markdown-parser/blob/main/test2-file.md)
-![Image](failureinput1.png)
--  The symptom of the bug was an infinite loop when processing test file 2. The bug was found to be that whenever the file was not ended on a link, the index of the next bracket would update to -1, and thus the program would parse from the beginning again. This was then fixed by checking for no other links were found towards the end of the file, and updating the working index (currentIndex) appropriately. 
+# Lab Report 3 Week 6
 
-![Image](lab2change2.png)
-[File 3: Test file 3](https://github.com/imsanika03/markdown-parser/blob/main/test3-file.md)
-![Image](lab2change2failure.png)
+Streamlining ssh Configuration
 
--  The symptom of the bug was more links being reported then were present in test file 3. The bug was that the add command wasn't inside the if-else loop, and thus the links would be added before the program checked if the current parsing index was back at the beginning of the file. 
+![Image](labreport3sc1.png)
+- I edited it with Notepad on windows
+
+![Image](labreport3sc2.png)
+- ssh with just ieng6 
 
 
-![Image](lab2change3.png)
-[File 3: Test file 6](https://github.com/imsanika03/markdown-parser/blob/main/test-file6.md)
-![Image](lab2change3failure.png)
 
-- The symptom of the bug was the program return text that was supposed to be images instead of links. The bug was that the code only checked for brackets, and not whether there was an exclamation mark in front of them to designate the text as an image. 
+![Image](labreport3sc3.png)
+- I copied an image of shrek to the ieng6 server using the new ssh configuration 
+
+Setup Github Access from ieng6
+
+
+![Image](labreport3sc7.png)
+- I added a new public key to my github settings
+
+![Image](labreport3sc8.png)
+- Location of keys on my user   
+
+Copy whole directories with scp -r
+
+![Image](labreport3sc4.png)
+- I copied the markdown-parser directory using the scp -r command and the ieng6 alias from the choice 1 activity
+
+![Image](labreport3sc5.png)
+- I ran the commands to execute MarkdownParserTest.java after copying the directory 
+
+![Image](labreport3sc6.png)
+- I was able to condense all the commands into one line using semicolons and quotation marks 
