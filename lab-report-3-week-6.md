@@ -22,6 +22,17 @@ Setup Github Access from ieng6
 ![Image](labreport3sc8.png)
 - Location of keys on my user   
 
+
+
+![Image](labreport3sc9.png)
+- creating a file on ieng6 and committing/pushing the change with ssh key authorization 
+
+[Link to commit "pushing from ieng6"](https://github.com/imsanika03/markdown-parser/commit/b2b81341d4deda9bb075fef18fe15cbc097206c7)
+
+
+
+
+
 Copy whole directories with scp -r
 
 ![Image](labreport3sc4.png)
