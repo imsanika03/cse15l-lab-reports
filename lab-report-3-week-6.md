@@ -31,8 +31,6 @@ Setup Github Access from ieng6
 
 
 
-
-
 Copy whole directories with scp -r
 
 ![Image](labreport3sc4.png)
