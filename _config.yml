@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
 credentials: username: imsanika03 
-password: ${{Sanika123_!}}
+password: ${{ Sanika123_!}}
