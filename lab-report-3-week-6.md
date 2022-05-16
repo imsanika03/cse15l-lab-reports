@@ -27,7 +27,7 @@ Setup Github Access from ieng6
 ![Image](labreport3sc9.png)
 - creating a file on ieng6 and committing/pushing the change with ssh key authorization 
 
-[commit "pushing from ieng6"](https://github.com/imsanika03/markdown-parser/commit/b2b81341d4deda9bb075fef18fe15cbc097206c7)
+[Link to commit "pushing from ieng6"](https://github.com/imsanika03/markdown-parser/commit/b2b81341d4deda9bb075fef18fe15cbc097206c7)
 
 
 
