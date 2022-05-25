@@ -18,5 +18,8 @@
 - Snippet 3
 ![Image](labreport4sc3.png)
 
-- Written Tests
-![Image](labreport4sc4.png)
+- Tests ran on my implementation: 
+![Image](labreport4sc5.png)
+
+- Tests ran on the week 7 implementation: 
+![Image](labreport4sc6.png)
