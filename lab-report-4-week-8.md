@@ -19,6 +19,7 @@
 ![Image](labreport4sc3.png)
 
 - Tests ran on my implementation: 
+![Image](labreport4sc13.png)
 ![Image](labreport4sc5.png)
 
 - Tests ran on the week 7 implementation: 
