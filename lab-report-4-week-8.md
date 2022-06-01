@@ -4,7 +4,7 @@
 [Repo](https://github.com/imsanika03/markdown-parser)
 
 - Link to Week 7 Markdown Parser repo: 
-[Repo](https://github.com/nidhidhamnani/markdown-parser)
+[Repo](https://github.com/TuannDang/markdown-parser)
 
 # Expected Snippet Output
 
