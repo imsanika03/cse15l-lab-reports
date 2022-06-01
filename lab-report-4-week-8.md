@@ -23,9 +23,14 @@
 ![Image](labreport4sc5.png)
 
 - Tests ran on the week 7 implementation: 
+Test 1: 
 ![Image](labreport4sc14.png)
+Test 2: 
 ![Image](labreport4sc15.png)
+Test 3: 
 ![Image](labreport4sc16.png)
+
+I ran these tests on eclipse because VsCode wasn't recognizing the junit imports for some reason. 
 
 # Questions 
 
