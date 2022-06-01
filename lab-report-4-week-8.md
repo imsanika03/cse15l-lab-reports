@@ -23,7 +23,9 @@
 ![Image](labreport4sc5.png)
 
 - Tests ran on the week 7 implementation: 
-![Image](labreport4sc6.png)
+![Image](labreport4sc14.png)
+![Image](labreport4sc15.png)
+![Image](labreport4sc16.png)
 
 # Questions 
 
