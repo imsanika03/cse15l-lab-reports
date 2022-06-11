@@ -16,6 +16,10 @@ This is the actual output:
 
 The bug seems to be that when there is a space, the text isn't recognized as a link. 
 
+![Image](lab5sc5.png)
+
+Here is the fix for this bug. The orginal program parses past spaces, but since markdown still recognizes them as links, I fixed the code to allow this to happen. 
+
 [Repo Link to Second Test](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md)
 
 My implementation seems to be correct while the week 9 implementation is wrong for test file 22. 
@@ -28,7 +32,7 @@ This is the actual outcome:
 
 The bug again seems to be that whenever there is a space in the link, the week 9 implementation fails. 
 
+![Image](lab5sc5.png)
 
-
-
+The fix is the same fix as for test 1 
 
